@@ -1,0 +1,128 @@
+body{
+  background-color: #bcd5ff
+}
+
+#meetstaff{
+  text-align: center;
+  font-size: 50px;
+  font-family: inherit;
+  margin-top: 25px;
+  margin-bottom: 40px;
+}
+
+#tabs{
+text-align: center;
+margin-top: 10px;
+}
+
+#buttontext {
+    color: black;
+    text-decoration: none;
+}
+
+#aboutusbutton {
+  padding: 10px;
+  border-radius: 0px;
+  background-color: white;
+}
+
+button {
+  color: black;
+}
+
+#ourteam{
+    display: inline;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#aboutus{
+    display: inline;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#products{
+    display: inline;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#policies{
+  display: inline;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+#contact_us{
+  display: inline;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+
+#greeterpic{
+    height: 300px;
+    width: 400px;
+    display: block;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 50px;
+}
+
+#samantha{
+  font-size: 35px;
+  font-family: inherit;
+  text-align: left;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+#aboutgreeter{
+  font-size: 25px;
+  font-family: sans-serif;
+  text-align: left;
+  margin-left: 15px;
+}
+
+#ceopic{
+  height:350px;
+  width: 400px;
+  display: block;
+}
+
+#robert{
+  font-size: 35px;
+  font-family: inherit;
+  text-align: left;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+#aboutceo{
+  font-size: 25px;
+  font-family: sans-serif;
+  text-align: left;
+  margin-left: 15px;
+}
+
+#cashierpic{
+  height: 300px;
+  width: 400px;
+  display: block;
+}
+
+#rose{
+  font-size: 35px;
+  font-family: inherit;
+  text-align: left;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+#aboutcashier{
+  font-size: 25px;
+  font-family: sans-serif;
+  text-align: left;
+  margin-left: 15px;
+}

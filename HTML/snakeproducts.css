@@ -1,0 +1,67 @@
+#main{
+  font-size: 50px;
+  font-family: inherit;
+  text-align: center;
+}
+
+#mousetitle{
+  font-family: inherit;
+  display: inline-block;
+  margin-top: 10px;
+  vertical-align: middle
+}
+
+#mouse{
+  height: 200px;
+  width: 300px;
+  vertical-align: middle;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 25px;
+}
+
+#anttitle{
+  font-family: inherit;
+  display: inline-block;
+  margin-top: 10px;
+  vertical-align: middle
+}
+
+#ant{
+  height: 300px;
+  width: 300px;
+  vertical-align: middle;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 25px;
+}
+
+#grasshoppertitle{
+  font-family: inherit;
+  display: inline-block;
+  margin-top: 10px;
+  vertical-align: middle
+}
+
+#grasshopper{
+  height: 300px;
+  width: 300px;
+  vertical-align: middle;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 25px;
+}
+
+#enclosures{
+  font-size: 30px;
+  font-family: inherit;
+  text-align: center;
+  margin-top: 100px;
+}
+
+#Spacer{
+  width: 1200px;
+  height: 1500px;
+  margin: auto;
+  background-color: #edefef;
+}

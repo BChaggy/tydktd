@@ -1,0 +1,107 @@
+#main{
+  font-size: 50px;
+  font-family: inherit;
+  text-align: center;
+}
+
+#catballtitle{
+  font-family: inherit;
+  display: inline-block;
+  margin-top: 10px;
+  vertical-align: middle
+}
+
+#catball{
+  height: 300px;
+  width: 300px;
+  vertical-align: middle;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 25px;
+}
+
+#fuzzballtitle{
+  font-family: inherit;
+  display: inline-block;
+  margin-top: 10px;
+  vertical-align: middle
+}
+
+#fuzzball{
+  height: 20px;
+  width: 300px;
+  vertical-align: middle;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 25px;
+}
+
+#catfishingrodtitle{
+  font-family: inherit;
+  display: inline-block;
+  margin-top: 10px;
+  vertical-align: middle
+}
+
+#catfishingrod{
+  height: 300px;
+  width: 300px;
+  vertical-align: middle;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 25px;
+}
+
+#catmeowbitestitle{
+  font-family: inherit;
+  display: inline-block;
+  margin-top: 10px;
+  vertical-align: middle
+}
+
+#catmeowbites{
+  height: 300px;
+  width: 300px;
+  vertical-align: middle;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 25px;
+}
+
+#catcirclefoodtitle{
+  font-family: inherit;
+  display: inline-block;
+  margin-top: 10px;
+  vertical-align: middle
+}
+
+#catcirclefood{
+  height: 300px;
+  width: 300px;
+  vertical-align: middle;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 25px;
+}
+
+#catspringmixtile{
+  font-family: inherit;
+  display: inline-block;
+  margin-top: 10px;
+  vertical-align: middle
+}
+
+#catspringmix{
+  height: 300px;
+  width: 300px;
+  vertical-align: middle;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 25px;
+}
+
+#Spacer{
+  width: 1200px;
+  height: 2650px;
+  margin: auto;
+  background-color: #edefef;

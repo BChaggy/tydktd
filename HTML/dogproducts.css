@@ -1,0 +1,107 @@
+#main{
+  font-size: 50px;
+  font-family: inherit;
+  text-align: center;
+}
+
+#collartitle{
+  font-family: inherit;
+  display: inline-block;
+  margin-top: 10px;
+  vertical-align: middle
+}
+
+#collar{
+  height: 300px;
+  width: 300px;
+  vertical-align: middle;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 25px;
+}
+
+#sweatertitle{
+  font-family: inherit;
+  display: inline-block;
+  margin-top: 10px;
+  vertical-align: middle
+}
+
+#dogsweater{
+  height: 300px;
+  width: 300px;
+  vertical-align: middle;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 25px;
+}
+
+#bodyleadtitle{
+  font-family: inherit;
+  display: inline-block;
+  margin-top: 10px;
+  vertical-align: middle
+}
+
+#dogbodylead{
+  height: 300px;
+  width: 300px;
+  vertical-align: middle;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 25px;
+}
+
+#smalltreatstitle{
+  font-family: inherit;
+  display: inline-block;
+  margin-top: 10px;
+  vertical-align: middle
+}
+
+#smalldogtreats{
+  height: 300px;
+  width: 300px;
+  vertical-align: middle;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 25px;
+}
+
+#flavoredtreatstitle{
+  font-family: inherit;
+  display: inline-block;
+  margin-top: 10px;
+  vertical-align: middle
+}
+
+#dogflavoredtreats{
+  height: 300px;
+  width: 300px;
+  vertical-align: middle;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 25px;
+}
+
+#meattreatstitle{
+  font-family: inherit;
+  display: inline-block;
+  margin-top: 10px;
+  vertical-align: middle
+}
+
+#dogmeattreats{
+  height: 300px;
+  width: 300px;
+  vertical-align: middle;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 25px;
+}
+
+#Spacer{
+  width: 1200px;
+  height: 2000px;
+  margin: auto;
+  background-color: #edefef;

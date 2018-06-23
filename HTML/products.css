@@ -1,0 +1,35 @@
+#productbutton1{
+  display: inline;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: #FFFF33;
+}
+
+#productbutton2{
+  display: inline;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: #FFFF33;
+}
+
+#productbutton3{
+  display: inline;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: #FFFF33;
+}
+
+#availableproducts{
+margin: auto;
+text-align: center;
+margin-top: 200px;
+}
+
+#buttonimage{
+  height: 300px;
+  width: 300px;
+}
+
+body{
+  background-color: #134493;
+}

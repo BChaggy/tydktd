@@ -1,0 +1,126 @@
+body{
+  background-color: #white
+}
+
+#contactus{
+  font-size: 50px;
+  text-align: center;
+  font-family: inherit;
+}
+
+#officelocation{
+  font-size: 25px;
+  text-align: left;
+  font-family: inherit;
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+#Location{
+  height: 400px;
+  width: 400px;
+  display: block;
+  float: left;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+#postaladdress{
+  font-size: 25px;
+  text-align: right;
+  font-family: inherit;
+  margin-left: 15px;
+  margin-top: 100px;
+  margin-right: 25px;
+  margin-bottom: 15px;
+}
+
+#phone{
+  font-size: 25px;
+  font-family: inherit;
+  text-align: right;
+  margin-right: 25px;
+  margin-bottom: 15px;
+}
+
+#fax{
+  font-size: 25px;
+  font-family: inherit;
+  text-align: right;
+  margin-right: 25px;
+  margin-bottom: 15px;
+}
+
+#email{
+  font-size: 25px;
+  font-family: inherit;
+  text-align: right;
+  margin-right: 25px;
+  margin-bottom: 15px;
+}
+
+#facebooklink{
+  height: 75px;
+  width: 75px;
+  margin-right: 25px;
+  display: inline-block;
+  float: right;
+}
+
+#tabs{
+text-align: right;
+margin-top: 10px;
+
+}
+
+#buttontext {
+    color: black;
+    text-decoration: none;
+}
+
+#aboutusbutton {
+  padding: 10px;
+  border-radius: 0px;
+  background-color: white;
+}
+
+button {
+  color: black;
+}
+
+#ourteam{
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 10px;
+}
+
+#aboutus{
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 10px;
+}
+
+#products{
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 10px;
+}
+
+#policies{
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-bottom: 10px;
+}
+
+#contact_us{
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-bottom: 10px;
+}
+
+#Spacer{
+  background-color: #d8d8d8;
+  height: 770px;
+  width: 1200px;
+  margin: auto;
+}
